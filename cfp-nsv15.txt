@@ -1,0 +1,123 @@
+CALL FOR PAPERS
+
+**************
+NSV 2015: DEADLINE EXTENSION UNTIL FEBRUARY 14
+**************
+
+8th  International Workshop on Numerical Software Verification
+April 13, 2015
+Cyber-Physical Week  2015
+Seattle, WA, USA
+
+Web Page: http://nsv2015.informatik.uni-freiburg.de/
+
+Important Dates
+===============
+
+Submissions deadline:    ** February 14, 2015 **
+Notification:            Feb 27, 2015
+Final version:           March 8, 2015
+Workshop:                April 13, 2015
+
+
+Description of the Workshop
+===========================
+
+Numerical computations are ubiquitous in digital systems: supervision,
+prediction, simulation and signal processing rely heavily on numerical
+calculus to achieve desired goals.  Design and verification of
+numerical algorithms has a unique set of challenges, which set it
+apart from rest of software verification. To achieve the verification
+and validation of global properties, numerical techniques need to
+precisely represent local behaviors of each component. The
+implementation of numerical techniques on modern hardware adds another
+layer of approximation because of the use of finite representations of
+infinite precision numbers that usually lack basic arithmetic
+properties such as commutativity and associativity. Finally, the
+development and analysis of cyber-physical systems (CPS) which involve
+the interacting continuous and discrete components pose a further
+challenge. It is hence imperative to develop logical and mathematical
+techniques for the reasoning about programmability and reliability.
+The NSV workshop is dedicated to the development of such techniques.
+
+
+Topics
+===============
+
+The scope of the workshop includes, but is not restricted to, the
+following topics:
+
+- Quantitative and qualitative analysis of hybrid systems
+- Models and abstraction techniques
+- Optimal control of dynamical systems
+- Parameter identification for hybrid systems
+- Numerical optimization methods
+- Hybrid systems verification
+- Applications of hybrid systems to systems biology
+- Propagation of uncertainties, deterministic and probabilistic models
+- Specifications of correctness for numerical programs
+- Formal specification and verification of numerical programs
+- Quality of finite precision implementations
+- Numerical properties of control software
+- Validation for space, avionics, automotive and real-time applications
+- Validation for scientific computing programs
+
+
+Submission information
+======================
+
+We solicit regular and short papers.Paper submission must be performed
+via the EasyChair system:
+http://easychair.org/conferences/?conf=nsv2015
+
+Regular papers must describe original work, be written and presented
+in English, and must not substantially overlap with papers that have
+been published or that are simultaneously submitted to a journal or a
+conference with refereed proceedings. Submitted papers will be judged
+on the basis of significance, relevance, correctness, originality, and
+clarity. They should clearly identify what has been accomplished and
+why it is significant.
+
+Regular paper submissions should not exceed 15 pages in ENTCS style,
+including bibliography and well-marked appendices:
+
+http://www.entcs.org/prelim.html
+
+Program committee members are not required to read the appendices, and
+thus papers must be intelligible without them. 
+
+Short papers are also welcome, they should present tools, benchmarks,
+case-studies or be extended abstracts of ongoing research. Short
+papers should not exceed 6 pages. Furthermore, in order to foster the
+exchange of ideas, we encourage authors to also submit short papers
+describing ideas which have already been reported in other venues.
+
+All accepted papers (except short papers based on ideas published
+elsewhere) will be published electronically by Elsevier in the
+Electronic Notes in Theoretical Computer Science series (ENTCS).
+
+Chairs
+==========
+
+Sergiy Bogomolov (IST Austria, Austria)
+Matthieu Martel (Université de Perpignan, France)
+
+Program Committee
+==========
+
+Ezio Bartocci (Vienna University of Technology, Austria)
+Sylvie Boldo (INRIA, France)
+Olivier Bouissou (Mathworks, France)
+Sean Gao (Massachusetts Institute of Technology, USA)
+Khalil Ghorbal (Carnegie Mellon University, USA)
+Eric Goubault (Ecole Polytechnique, France)
+Jim Kapinski (Toyota, USA)
+Ian Mitchell (University of British Columbia, Canada)
+Jan Otop (IST, Austria)
+Pavithra Prabhakar (IMDEA, Spain)
+Walid Taha (Halmstadt University & Rice University, Sweden)
+
+
+
+
+
