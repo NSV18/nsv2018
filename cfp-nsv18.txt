@@ -52,7 +52,7 @@ via the EasyChair system: http://easychair.org/conferences/?conf=nsv2018
 
 Regular papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings. Submitted papers will be judged on the basis of significance, relevance, correctness, originality, and clarity. They should clearly identify what has been accomplished and why it is significant.
 
-Regular paper submissions should not exceed 15 pages in LNCS style, including bibliography and well-marked appendices: http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+Regular paper submissions should not exceed 15 pages in ENTCS style, including bibliography and well-marked appendices: http://www.entcs.org/prelim.html
 
 Program committee members are not required to read the appendices, and thus papers must be intelligible without them.
 
