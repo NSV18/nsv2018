@@ -37,6 +37,13 @@ The scope of the workshop includes, but is not restricted to, the following topi
 - Validation for space, avionics, automotive and real-time applications
 - Validation for scientific computing programs
 
+Confirmed invited speakers
+
+- Alberto Ferrari/Orlando Ferrante (United Technologies Research Center, Italy)
+- Pierre-Loïc Garoche (ONERA Toulouse, France)
+- Laurent Raffaeli (Naval Group, France)
+- Andrew Raynolds (University of Iowa, USA)
+- Paolo Zuliani (Newcastle University, UK)
 
 Submission information
 
