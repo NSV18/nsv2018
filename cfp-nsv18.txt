@@ -47,11 +47,11 @@ Regular papers must describe original work, be written and presented in English,
 
 Regular paper submissions should not exceed 15 pages in LNCS style, including bibliography and well-marked appendices: http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 
-Program committee members are not required to read the appendices, and thus papers must be intelligible without them. 
+Program committee members are not required to read the appendices, and thus papers must be intelligible without them.
 
 Short papers are also welcome, they should present tools, benchmarks, case-studies or be extended abstracts of ongoing research. Short papers should not exceed 6 pages. Furthermore, in order to foster the exchange of ideas, we encourage authors to also submit short papers describing ideas which have already been reported in other venues.
 
-All accepted papers (except short papers based on ideas published elsewhere) will be published by Springer in the Lecture Notes on Computer Science series (LNCS).
+Final proceedings will be edited after the workshop as a special issue. This special issue will undergo the classical reviewing process.
 
 Chairs
 
@@ -61,7 +61,7 @@ Alessandro Pinto (United Technologies Research Center)
 
 Program Committee
 
-Erika Abraham (RWTH Aachen, DE)  
+Erika Abraham (RWTH Aachen, DE)
 Olivier Bouissou (The Mathworks, France)
 Remi Delmas (ONERA, France)
 Adam Duracz (Rice University, USA)
@@ -75,12 +75,12 @@ Matthieu Martel (Professor, Université de Perpignan)
 Guillaume Melquion (INRIA, France)
 Tze Meng Low (Carnegie Mellon University)
 Olivier Mullier (ENSTA ParisTech, France)
-Junkil Park (Phd, University of Pennsylvania)    
+Junkil Park (Phd, University of Pennsylvania)
 Akshay Rajhans  (The Mathworks)
 Stefan Ratschan (Academy of Sciences of the Czech Republic)
 Ramesh S (General Motors)
 Yassamine Seladji (Assistant Professor, University of Tlemcen, Algeria)
-Laura Titolo (Postdoc NASA)  
+Laura Titolo (Postdoc NASA)
 Jyotirmoy V. Deshmukh (University of Southern California)
 Timothy Wang (United Technologies Research Center)
 
